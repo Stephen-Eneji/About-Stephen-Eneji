@@ -1,40 +1,16 @@
-def __init__(self, personalInfo, skills, projects):
-    self.personalInfo = personalInfo
-    self.skills = skills
-    self.projects = projects
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<div>
+    <h1>Hi 👋, I'm Stephen Eneji<h1><h3>Self-taught Programmer; Frontend developer, Software Engineer, CS Undergraduate<h3>
+        </div>
+</div>
+<div>
+<a href="https://www.instagram.com/heisenejii"> <img alt="Instagram" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1647953745~hmac=4a2b947a925de9ffa431b52e63451593" width="40"> </a>
 
-#Personal Infomation
-def personalInfo():
-    personalInfo = ("name: Stephen Eneji",
-                        " >Education: B.Sc. Computer Science (2021 - 2025",
-                        " >Email: enejistephen01@gmail.com",
-                        " >GitHub: https://github.com/Stephen-Eneji",
-                        " >LinkedIn: https://www.linkedin.com/in/stephen-eneji-382471209/",
-                        " >Whatsapp: +2348166668759",
-                        " >Instagram/twitter: @heiseneji")
-    print(personalInfo)
+<a href="https://www.twitter.com/heisenejii"> <img alt="Twitter" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670127.png?token=exp=1647954231~hmac=67b660989d2cb463ce5010676593f30f" width="40"> </a>
 
-personalInfo()
+<a href="https://api.whatsapp.com/send?phone=+2348166668759&text="> <img alt="Whatsapp" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1647954175~hmac=297cf01b8b89b8df7187e6c9a55eb908" width="35"> </a>
 
-#Skills
-def skills():
-    ski1 = "skillsSoFar: 'HTML', 'CSS', 'BootStrap', 'JavaScript' +ES6, 'Python'",
-    ski2 = "troubleShoot.Resources: "'Google', 'Stackoverflow', 'Twitter', 'Dev Circle',
-    ski3 = "'Git', 'GitHub', 'Version Control'"
-    print(ski1)
-    print(ski2)
-    print(ski3)
+<a href="https://www.linkedin.com/in/stephen-eneji-382471209/"> <img alt="LinkedIn" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647954300~hmac=2df30b431d19f7dfd098200ce9782a5a" width="40"> </a>
 
-skills()
-
-#Projects so far (To be updated with time)
-def projects():
-    prj = {1: "Matrispy =  Matrix calculator to solve any type of logic for any type of Matrix",
-                2: "toDoApp =  Work in progress",
-                3: "Built.Multiple.Websites.freelancing =  Cyberinfomatic.com, greentech.com.ng"}
-    print(prj[1])
-    print(prj[2])
-    print(prj[3])
-
-projects()
-
+ </div>
