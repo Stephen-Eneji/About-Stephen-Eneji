@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stephen Eneji</h1>
-<h3 align="center">Frontend developer, Software Engineering Journey, CS undergraduate Student</h3>
+<h3 align="center">Web Developer, Software Engineering Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephen-eneji&label=Profile%20views&color=0e75b6&style=flat" alt="stephen-eneji" /> </p>
 
 <p align="left"> <a href="https://twitter.com/heisenejii" target="blank"><img src="https://img.shields.io/twitter/follow/heisenejii?logo=twitter&style=for-the-badge" alt="heisenejii" /></a> </p>
 
-- 🌱 I’m currently advancing my knowledge on **Reactjs**
+- 🌱 I’m currently freelancing and an indie hacker.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stephen-Eneji/](https://github.com/Stephen-Eneji/)
+- 👨‍💻 All of my projects are available at [https://github.com/Stephen-Eneji/](https://github.com/Stephen-Eneji/) or [https://cyberinfomatic.com/#view-projects]((https://cyberinfomatic.com/#view-projects)/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,36 +36,22 @@ def personalInfo():
                         " >Education: B.Sc. Computer Science (2021 - 2025",
                         " >Email: enejistephen01@gmail.com",
                         " >GitHub: https://github.com/Stephen-Eneji",
-                        " >LinkedIn: https://www.linkedin.com/in/stephen-eneji-382471209/",
                         " >Whatsapp: +2348166668759",
-                        " >Instagram/twitter: @heiseneji")
+                        " >Instagram/twitter: @heisenejii")
     print(personalInfo)
 
 personalInfo()
 
 #Skills
 def skills():
-    ski1 = "skillsSoFar: 'HTML', 'CSS', 'BootStrap', 'JavaScript' +ES6, 'Python'",
-    ski2 = "troubleShoot.Resources: "'Google', 'Stackoverflow', 'Twitter', 'Dev Circle',
-    ski3 = "'Git', 'GitHub', 'Version Control'"
+    ski1 = "Technical skills: 'WordPress', 'ReactJS', 'TypeScript', 'Elementor', 'Python', 'FlutterFlow', 'Figma', 'Photoshop & CorelDraw', 'HTML', 'CSS', 'BootStrap', 'JavaScript +ES6'",
+    ski2 = "troubleShoot.Resources: "'Google', 'Stackoverflow', 'Reddit', 'X', 'Dev Circle',
+    ski3 = "'Git', 'GitHub', 'Version Control', 'Netlify', 'C:/'"
     print(ski1)
     print(ski2)
     print(ski3)
 
 skills()
-
-#Projects so far (To be updated with time)
-def projects():
-    prj = {1: "Matrispy =  Matrix calculator to solve any type of logic for any type of Matrix",
-           2: "YouTube Clone",
-           3: "toDoApp =  Work in progress",
-           4: "Built.Multiple.Websites.freelancing =  Cyberinfomatic.com, greentech.com.ng"}
-    print(prj[1])
-    print(prj[2])
-    print(prj[3])
-    print(prj[4])
-
-projects()
 
 ```
 
