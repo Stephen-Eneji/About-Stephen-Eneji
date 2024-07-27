@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen Eneji</h1>
-<h3 align="center">Web Developer, Software Engineering Journey</h3>
+<h3 align="center">Web Developer also travelling the Software Engineering Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephen-eneji&label=Profile%20views&color=0e75b6&style=flat" alt="stephen-eneji" /> </p>
 
